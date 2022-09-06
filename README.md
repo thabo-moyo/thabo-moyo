@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 #### About me
 
 - 🔭 I’m currently working on PHP Laravel/VueJS.
-- 🌱 I’m currently learning golang.
-- 📫 How to reach me: thabo.s.moyo@gmail.com
+- 🌱 I’m currently learning Golang.
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -30,7 +29,7 @@ Here are some ideas to get you started:
 -->
 
 <!--
-<a href="https://github.com/anuraghazra/github-readme-stats&count_private=true">
+<a href="https://github.com/anuraghazra/github-readme-stats&count_private=true&hide=contribs,issues">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=thabo-moyo&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
