@@ -28,18 +28,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats?username=thabo-moyo&count_private=true&hide=contribs,issues">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=thabo-moyo&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=thabo-moyo&repo=convoychat" />
-</a>
--->
-
-<!-- <p>Visitor count<br><img src="https://profile-counter.glitch.me/thabo-moyo/count.svg" /></p> -->
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thabo-moyo&show_icons=true&include_all_commits=true&count_private=true&theme=vue&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thabo-moyo&layout=compact&theme=vue&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thabo-moyo&show_icons=true&include_all_commits=true&count_private=true&theme=vue&hide_border=true&hide=contribs,issues" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thabo-moyo&layout=compact&theme=vue&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=thabo-moyo&custom_title=Bowen's%20Activity%20Graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
