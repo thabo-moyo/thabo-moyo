@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome to my page.</h1>
 
 <!-- [![Actions Status](https://github.com/thabo-moyo/thabo-moyo/workflows/wakatime-stats/badge.svg)](https://github.com/Promacanthus/Promacanthus/actions)
 [![Actions Status](https://github.com/thabo-moyo/thabo-moyo/workflows/update-gh-activity/badge.svg)](https://github.com/thabo-moyo/thabo-moyo/actions) -->
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 #### About me
 
-- 🔭 I’m currently working on PHP Laravel/VueJS.
+- 🔭 I’m currently working with PHP Laravel/VueJS.
 - 🌱 I’m currently learning Golang.
 <!--
 - 👯 I’m looking to collaborate on ...
