@@ -4,8 +4,6 @@
 [![Actions Status](https://github.com/thabo-moyo/thabo-moyo/workflows/update-gh-activity/badge.svg)](https://github.com/thabo-moyo/thabo-moyo/actions) -->
 ![](https://visitor-badge.glitch.me/badge?page_id=thabo-moyo.thabo-moyo)
 
-<p>Welcome to my page! </br> 
-
 I'm [Thabo Moyo](https://github.com/thabo-moyo)!
 
 
