@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 #### About me
 
-- 🔭 I’m currently working with PHP Laravel/VueJS.
-- 🌱 I’m currently learning Golang.
+- 🔭 I’m currently a PHP Laravel/VueJS developer.
+- 🌱 I’m also learning Golang for side projects .
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
