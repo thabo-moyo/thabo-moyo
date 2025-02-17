@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 #### About me
 
-- 🔭 I’m currently a PHP Laravel/VueJS developer.
+- 🔭 I’m currently a PHP Laravel/React developer.
 - 🌱 I’m also learning Golang for side projects .
 <!--
 - 👯 I’m looking to collaborate on ...
